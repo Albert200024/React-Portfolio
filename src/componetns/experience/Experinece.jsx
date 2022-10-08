@@ -49,39 +49,6 @@ const Experinece = () => {
                     </article>
                 </div> 
           </div>
-          <div className="experience_backand">
-                <h3>Frontend Development</h3> 
-                <div className='experience_content'>
-                    <article className='experience_detalis'>
-                       <CheckCircleIcon className='experience_detalis-icon'/>
-                       <div> 
-                          <h4>Node JS</h4>
-                          <small className='text-light'>Intermedia</small>
-                       </div>   
-                    </article>
-                    <article className='experience_detalis'>
-                       <CheckCircleIcon className='experience_detalis-icon'/>
-                       <div>
-                          <h4>MongeDB</h4>
-                          <small className='text-light'>Experienced</small>
-                       </div>
-                    </article>
-                    <article className='experience_detalis'>
-                       <CheckCircleIcon className='experience_detalis-icon'/>
-                       <div>
-                          <h4>PHP</h4>
-                          <small className='text-light'>Experienced</small>
-                       </div>
-                    </article>
-                    <article className='experience_detalis'>
-                       <CheckCircleIcon className='experience_detalis-icon'/>
-                       <div>
-                           <h4>MySQl</h4>
-                           <small className='text-light'>Experienced</small>
-                       </div>
-                    </article>
-                </div> 
-          </div>
        </div>
     </section>
   )
